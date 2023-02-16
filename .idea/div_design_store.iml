@@ -13,14 +13,16 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
-    </content>
-    <content url="file://$MODULE_DIR$/venv" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (PycharmProjects_mitko) (2)" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/../div_design_store\templates" />
+      </list>
+    </option>
   </component>
 </module>
